@@ -1,5 +1,5 @@
 
-Steps to run the projection in your local machine :-
+Steps to setup the project in your local machine :-
 
 1. First of all, clone the project repository.
 2. Open the directory in the terminal.
@@ -10,4 +10,4 @@ Steps to run the projection in your local machine :-
 7. After this, run the command 'npm i concurrently' inside the project directory.
 8. After that, run the command 'npm install nodemon'
 9. Use command 'npm run dev' to run the server.
-10. To open production, use the command 'npm run build'. 
+10. Setup production, use the command 'npm run build'. 
